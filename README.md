@@ -1,12 +1,3 @@
-**DATOS PERSONALES**
-
-- Daniel Enrique Córdoba
-- Administrador de Servidores / Infraestructura
-- Domicilio: Eduardo Maldonado 1562 Los Plátanos - Córdoba - Capital.
-- Edad: 60
-- Teléfono / celular: 3516799090
-- E-mail: daniel.e.cordoba@gmail.com
-
 ---
 
 **EXTRACTO PROFESIONAL**
@@ -65,7 +56,8 @@ Filosofía, 1986-1987 (incompleto)
 - Infraestructura y Virtualización: Active Directory, Office365, VMware, vCenter, ESXi  
 - Redes y Seguridad: Nmap, Metasploit, Wireshark, Bash Scripting
 - Backup: Backup Exec-Vray, Veeam Backup & Replication
-- Scripting y Programación: Python, PowerShell  
+- Scripting y Programación: Python, PowerShell
+- Bases de Datos: Mysql, PostgreSQL, PostGIS
 - Repositorios: GitHub ([danielcba](https://github.com/danielcba))  
 
 ---
