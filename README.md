@@ -1,3 +1,4 @@
+---
 **EXTRACTO PROFESIONAL**
 
 Especialista en Infraestructura y Virtualización con más de 30 años de experiencia en el sector IT. Amplia trayectoria en administración de servidores, soporte de infraestructura y virtualización en entornos internacionales. Colaboré durante 13 años en los workshops internacionales de infraestructura de Holcim, donde definimos estrategias de IT para apoyar las metas del negocio en Latinoamérica. Excelentes habilidades en liderazgo de equipos, resolución de problemas complejos y proyectos de gran escala en multinacionales.
